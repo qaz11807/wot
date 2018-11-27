@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../freebird/app/helpers/apis.js" description="&#10;apis.g" line="4" />
+    <bookmark url="file://$PROJECT_DIR$/../freebird/app/helpers/apis.js" line="93" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1973c02-f546-4152-90ad-a780cb3f8fd9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="freebird-demo-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../freebird/app/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="e#4571#5252#0" expanded="false" />
+                <element signature="e#5403#5463#0" expanded="false" />
+                <element signature="e#16132#16143#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>process</find>
+      <find>mosca</find>
+      <find>this._gadbox</find>
+      <find>_gadbox</find>
+      <find>box</find>
+      <find>MOSCA</find>
+      <find>needle</find>
+      <find>config</find>
+      <find>CONSOILE</find>
+      <find>STATUS</find>
+      <find>CONSOLE</find>
+      <find>myModalmyModal</find>
+      <find>exec</find>
+      <find>EXEC</find>
+      <find>dgram</find>
+      <find>/user</find>
+      <find>net</find>
+      <find>console.log</find>
+      <find>publish</find>
+      <find>ACC</find>
+      <find>xva</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\code\freebird-demo-master\node_modules\freebird</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/needle/lib/needle.js" />
+        <option value="$PROJECT_DIR$/node_modules/mosca/lib/cli.js" />
+        <option value="$PROJECT_DIR$/node_modules/freebird/lib/components/registry.js" />
+        <option value="$PROJECT_DIR$/node_modules/freebird-constants/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/freebird/lib/rpc/agent.js" />
+        <option value="$PROJECT_DIR$/app/main.js" />
+        <option value="$PROJECT_DIR$/node_modules/objectbox/lib/db.js" />
+        <option value="$PROJECT_DIR$/node_modules/objectbox/lib/objectbox.js" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt-shepherd/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt-node/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/nedb/lib/datastore.js" />
+        <option value="$PROJECT_DIR$/node_modules/mosca/lib/options.js" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt-shepherd/lib/mqtt-shepherd.js" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt-shepherd/lib/init.js" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt/lib/connect/ws.js" />
+        <option value="$PROJECT_DIR$/app/force.js" />
+        <option value="$PROJECT_DIR$/clients/mqtt-node-7688/qserver.js" />
+        <option value="$PROJECT_DIR$/node_modules/freebird/lib/rpc/apis.js" />
+        <option value="$PROJECT_DIR$/app/lora/msgHdlr.js" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt-node/lib/mqnode.js" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt-shepherd/lib/components/mqtt-node.js" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt-shepherd/lib/components/msghandler.js" />
+        <option value="$PROJECT_DIR$/node_modules/coap-node/lib/coap-node.js" />
+        <option value="$PROJECT_DIR$/node_modules/network/lib/win32.js" />
+        <option value="$PROJECT_DIR$/app/test.js" />
+        <option value="$PROJECT_DIR$/node_modules/coap-node/node_modules/coap/lib/agent.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt-node/lib/init.js" />
+        <option value="$PROJECT_DIR$/app/lora/lora-shepherd.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/app/lora/config.js" />
+        <option value="$PROJECT_DIR$/node_modules/freebird-netcore-ble/lib/drivers/devDrivers.js" />
+        <option value="$PROJECT_DIR$/node_modules/mqtt-shepherd/lib/config.js" />
+        <option value="$PROJECT_DIR$/app/lora/init.js" />
+        <option value="$PROJECT_DIR$/node_modules/freebird/database/devices.db" />
+        <option value="$PROJECT_DIR$/node_modules/freebird/database/gadgets.db" />
+        <option value="$PROJECT_DIR$/app/styles/main.css" />
+        <option value="$PROJECT_DIR$/webpack.production.config.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/app/client.js" />
+        <option value="$PROJECT_DIR$/app/server.js" />
+        <option value="$PROJECT_DIR$/app/helpers/apis.js" />
+        <option value="$PROJECT_DIR$/../freebird/app/server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/../freebird/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/../freebird/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1400" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WOTbaseOnFreebird" type="b2602c69:ProjectViewProjectNode" />
+              <item name="freebird" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WOTbaseOnFreebird" type="b2602c69:ProjectViewProjectNode" />
+              <item name="freebird" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WOTbaseOnFreebird" type="b2602c69:ProjectViewProjectNode" />
+              <item name="freebird" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="lora" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WOTbaseOnFreebird" type="b2602c69:ProjectViewProjectNode" />
+              <item name="freebird" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WOTbaseOnFreebird" type="b2602c69:ProjectViewProjectNode" />
+              <item name="freebird" type="462c0819:PsiDirectoryNode" />
+              <item name="Database" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editorconfig.notification" value="tab;" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\freebird-demo-master" />
+      <recent name="D:\code\freebird-demo-master\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\freebird-demo-master\app" />
+      <recent name="D:\code\freebird-demo-master\build" />
+      <recent name="D:\code\freebird-demo-master" />
+      <recent name="D:\code\freebird-demo-master\app\styles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration name="example.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/../freebird/node_modules/mqtt/example.js" working-dir="$PROJECT_DIR$/../freebird/node_modules/mqtt" />
+    <configuration name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/../freebird/main.js" working-dir="$PROJECT_DIR$/../freebird" />
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/../freebird/app/test.js" working-dir="$PROJECT_DIR$/../freebird/app" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.example.js" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.example.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1973c02-f546-4152-90ad-a780cb3f8fd9" name="Default" comment="" />
+      <created>1514519616881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514519616881</updated>
+      <workItem from="1514519618689" duration="2236000" />
+      <workItem from="1514544349634" duration="2918000" />
+      <workItem from="1514567932870" duration="18096000" />
+      <workItem from="1514628739038" duration="2713000" />
+      <workItem from="1514726815282" duration="6795000" />
+      <workItem from="1514746101603" duration="3129000" />
+      <workItem from="1514886679432" duration="1931000" />
+      <workItem from="1514906152609" duration="14553000" />
+      <workItem from="1514974446191" duration="2536000" />
+      <workItem from="1514995200746" duration="3906000" />
+      <workItem from="1515057438185" duration="2295000" />
+      <workItem from="1515082508732" duration="29185000" />
+      <workItem from="1515132352856" duration="3119000" />
+      <workItem from="1515137737316" duration="6022000" />
+      <workItem from="1515145689576" duration="6293000" />
+      <workItem from="1515656463612" duration="1268000" />
+      <workItem from="1515683115701" duration="229000" />
+      <workItem from="1515887057312" duration="6253000" />
+      <workItem from="1516064553594" duration="16874000" />
+      <workItem from="1516123942746" duration="3103000" />
+      <workItem from="1516153580403" duration="9622000" />
+      <workItem from="1516233967972" duration="6395000" />
+      <workItem from="1516246409705" duration="18002000" />
+      <workItem from="1516291737876" duration="8566000" />
+      <workItem from="1516341824272" duration="875000" />
+      <workItem from="1516444105884" duration="304000" />
+      <workItem from="1516444861465" duration="15000" />
+      <workItem from="1516631582697" duration="1597000" />
+      <workItem from="1516637176763" duration="26000" />
+      <workItem from="1522469240493" duration="11198000" />
+      <workItem from="1522562209349" duration="30578000" />
+      <workItem from="1522639524454" duration="9117000" />
+      <workItem from="1523649474203" duration="1962000" />
+      <workItem from="1523723227104" duration="1200000" />
+      <workItem from="1523727477969" duration="435000" />
+      <workItem from="1523732366383" duration="835000" />
+      <workItem from="1523744907424" duration="207000" />
+      <workItem from="1523746554620" duration="156000" />
+      <workItem from="1523750491287" duration="89000" />
+      <workItem from="1523750794382" duration="59000" />
+      <workItem from="1523824430103" duration="2822000" />
+      <workItem from="1523827309909" duration="1036000" />
+      <workItem from="1523831068246" duration="6905000" />
+      <workItem from="1524045541840" duration="167000" />
+      <workItem from="1524047259785" duration="629000" />
+      <workItem from="1524047923171" duration="101000" />
+      <workItem from="1524048187056" duration="3790000" />
+      <workItem from="1524082068969" duration="616000" />
+      <workItem from="1524083626277" duration="894000" />
+      <workItem from="1524196644477" duration="28000000" />
+      <workItem from="1524294604553" duration="13921000" />
+      <workItem from="1524309192228" duration="3465000" />
+      <workItem from="1524319970835" duration="3958000" />
+      <workItem from="1524352800809" duration="1072000" />
+      <workItem from="1524354015563" duration="8829000" />
+      <workItem from="1524364336955" duration="93239000" />
+      <workItem from="1524646291801" duration="15281000" />
+      <workItem from="1524745799887" duration="4513000" />
+      <workItem from="1524766341707" duration="52177000" />
+      <workItem from="1524987540512" duration="42710000" />
+      <workItem from="1525161683247" duration="23080000" />
+      <workItem from="1525365737804" duration="8988000" />
+      <workItem from="1525424174728" duration="10108000" />
+      <workItem from="1525460443499" duration="9597000" />
+      <workItem from="1525560620288" duration="39000" />
+      <workItem from="1525854346999" duration="15659000" />
+      <workItem from="1525914353933" duration="1536000" />
+      <workItem from="1525919153420" duration="4983000" />
+      <workItem from="1526066013643" duration="15981000" />
+      <workItem from="1526442293998" duration="194000" />
+      <workItem from="1526442553602" duration="1470000" />
+      <workItem from="1526520983407" duration="1276000" />
+      <workItem from="1526522357859" duration="15000" />
+      <workItem from="1526537128646" duration="10869000" />
+      <workItem from="1526634503122" duration="555000" />
+      <workItem from="1526639370104" duration="10315000" />
+      <workItem from="1527069171999" duration="2086000" />
+      <workItem from="1527174559188" duration="68000" />
+      <workItem from="1527246348342" duration="1325000" />
+      <workItem from="1527263314934" duration="4993000" />
+      <workItem from="1527268481426" duration="5140000" />
+      <workItem from="1527320497941" duration="15018000" />
+      <workItem from="1527548505771" duration="93000" />
+      <workItem from="1527601315727" duration="5996000" />
+      <workItem from="1527912021608" duration="977000" />
+      <workItem from="1528078342945" duration="11000" />
+      <workItem from="1528381289375" duration="117000" />
+      <workItem from="1530180433677" duration="20000" />
+      <workItem from="1543279346363" duration="3543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="672869000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19858156" sideWeight="0.6309904" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.4778831" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289166" sideWeight="0.44680852" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.34689265" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25058916" sideWeight="0.6539062" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289166" sideWeight="0.5531915" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1421776" sideWeight="0.36900958" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.49154335" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.47946286" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2570281" sideWeight="0.31832543" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.34689265" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2570281" sideWeight="0.68167454" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.68759876" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19549763" sideWeight="0.6309904" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.49154335" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1421776" sideWeight="0.36900958" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="50" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/mqtt-node/lib/mqnode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="398" column="21" lean-forward="false" selection-start-line="398" selection-start-column="21" selection-end-line="398" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="348" column="16" lean-forward="true" selection-start-line="348" selection-start-column="16" selection-end-line="348" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/icon/dark-grey-terrazzo.png" />
+    <entry file="file://$PROJECT_DIR$/build/icon/christmas-dark.png" />
+    <entry file="file://$PROJECT_DIR$/../freebird/build/icon/dev/weather.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/build/icon/background/curls.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/build/icon/background/dark-grey-terrazzo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird/docs/temp.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-872">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird-base/lib/gadget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="268" column="21" lean-forward="false" selection-start-line="268" selection-start-column="17" selection-end-line="268" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird-base/lib/device.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1175">
+          <caret line="256" column="21" lean-forward="false" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird-base/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="412">
+            <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/async/lib/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="732" column="14" lean-forward="true" selection-start-line="732" selection-start-column="14" selection-end-line="732" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/bue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/mqtt-node/lib/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/noble/lib/hci-socket/hci.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/webpack/lib/webpack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird-netcore-mqtt/lib/components/cookRawDev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="34" column="46" lean-forward="false" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird-base/lib/netcore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird/lib/components/handlers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="108" column="7" lean-forward="false" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird/lib/freebird.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="251" column="0" lean-forward="true" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/q/q.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3900">
+          <caret line="150" column="19" lean-forward="false" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!block;n#devDependencies#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/lora/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/lora/lora-shepherd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="84" column="6" lean-forward="false" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird-netcore-mqtt/docs/device_api.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/mqtt-shepherd/lib/components/mqtt-node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="261" column="17" lean-forward="false" selection-start-line="261" selection-start-column="17" selection-end-line="261" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird-netcore-ble/lib/drivers/devDrivers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="31" column="37" lean-forward="false" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/mqtt-shepherd/lib/database/mqtt.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird-netcore-mqtt/lib/netcore-mqtt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird-netcore-mqtt/lib/helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/mqtt-shepherd/lib/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="102" column="4" lean-forward="false" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird/database/devices.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="231" lean-forward="false" selection-start-line="13" selection-start-column="231" selection-end-line="13" selection-end-column="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/node_modules/freebird/database/gadgets.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/helpers/rpcClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/lora/msgHdlr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/Database/gadValue.db">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-239377">
+          <caret line="513" column="25" lean-forward="false" selection-start-line="513" selection-start-column="25" selection-end-line="513" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/webpack.production.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/build/icon/background/christmas-dark.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/build/icon/background/spirationdark.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/lora/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="160" column="28" lean-forward="false" selection-start-line="160" selection-start-column="28" selection-end-line="160" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/helpers/apis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="123" column="34" lean-forward="false" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="34" />
+          <folding>
+            <element signature="e#1186#2056#0" expanded="false" />
+            <element signature="e#2131#2923#0" expanded="false" />
+            <element signature="e#2999#3791#0" expanded="false" />
+            <element signature="e#3866#4658#0" expanded="false" />
+            <element signature="e#4815#6153#0" expanded="false" />
+            <element signature="e#8466#8532#0" expanded="false" />
+            <element signature="e#8575#8935#0" expanded="false" />
+            <element signature="e#9488#9524#0" expanded="false" />
+            <element signature="e#18383#18437#0" expanded="false" />
+            <element signature="e#19657#19707#0" expanded="false" />
+            <element signature="e#19746#19846#0" expanded="false" />
+            <element signature="e#19917#20952#0" expanded="false" />
+            <element signature="e#20989#21586#0" expanded="false" />
+            <element signature="e#23831#23940#0" expanded="false" />
+            <element signature="n#!!block;n#ticked#0" expanded="false" />
+            <element signature="n#!!block;n#dragstarted#0" expanded="false" />
+            <element signature="n#!!block;n#dragged#0" expanded="false" />
+            <element signature="n#!!block;n#dragended#0" expanded="false" />
+            <element signature="e#27472#27885#0" expanded="false" />
+            <element signature="e#36737#37394#0" expanded="false" />
+            <element signature="e#37441#37589#0" expanded="false" />
+            <element signature="n#!!block;n#timeZone#0" expanded="false" />
+            <element signature="n#!!block;n#logging#0" expanded="false" />
+            <element signature="n#!!block;n#getAttrType#0" expanded="false" />
+            <element signature="n#!!block;n#getImg#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="630">
+            <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-218">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freebird/app/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#4571#5252#0" expanded="false" />
+            <element signature="e#5403#5463#0" expanded="false" />
+            <element signature="e#16132#16143#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=0">
+    <title>myWeb</title>
+    <!--Jquery js-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- bootstrap js and boostrap datepicker js-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/js/bootstrap-datepicker.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/locales/bootstrap-datepicker.zh-TW.min.js"></script>
+    <!-- bootstrap css and boostrap datepicker css-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/css/bootstrap-datepicker.standalone.min.css">
+    <!--AngularJs js-->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <!--D3.js js-->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!--font awesome-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+</head>
+<body class="container-fluid">
+    <nav class="navbar navbar-expand-md navbar-fixed-top navbar-dark bg-dark main-nav">
+        <ul class="nav navbar-nav mx-auto">
+            <li class="nav-item"><a class="nav-link" href="#">IOT Monitor</a></li>
+        </ul>
+    </nav>
+    <div class="row">
+        <div class="col-3">
+            <textarea class="log" readonly></textarea>
+        </div>
+        <div class="fdiv col-9">
+            <svg class="force"></svg>
+        </div>
+    </div>
+
+    <div class="tooltip">
+        <div>
+            <b>Type</b>
+            <div class='type'></div>
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <b>Value</b>
+                <div class='value'></div>
+            </div>
+            <div class="col-6">
+                <b>Unit</b>
+                <div class='unit'></div>
+            </div>
+        </div>
+        <div class="info">
+            <div><b>Netcore:</b><span class="netcore"></span></div>
+            <div><b>Status:</b><span class="status"></span></div>
+            <div><b>ID:</b><span class="gadId"></span></div>
+            <div><b>Model:</b><span class="model"></span></div>
+            <div><b>PermAddr:</b><span class="addr"></span></div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="myModal" ng-controller="GadController">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Gadget's Chart&Setting</h4>
+                    <button type="button" class="close" data-dismiss="modal">x</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <ul class="nav nav-tabs" id="myTab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="charts-tab" data-toggle="tab" href="#charts" role="tab"
+                               aria-controls="charts" aria-selected="true">Chart</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="settings-tab" data-toggle="tab" href="#settings" role="tab"
+                               aria-controls="settings" aria-selected="false">Settings</a>
+                        </li>
+                    </ul>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active chartDiv" id="charts" role="tabpanel" aria-labelledby="charts-tab">
+                            <div class="row">
+                                <div class="dropdown col-4">
+                                    <select class="custom-select" id="inlineFormCustomSelect">
+                                        <option selected value="1">Tracking</option>
+                                        <option value="2">From Date</option>
+                                        <option value="3">Date to Date</option>
+                                    </select>
+                                </div>
+                                <div class="form-group col-4">
+                                    <div class='input-group date' id='datepicker2'>
+                                        <input type='text' class="form-control" />
+                                        <span class="input-group-addon">
+                                    <i class="fa fa-calendar-alt"></i>
+                                </span>
+                                    </div>
+                                </div>
+                                <div class="form-group col-4">
+                                    <div class='input-group date' id='datepicker1'>
+                                        <input type='text' class="form-control" />
+                                        <span class="input-group-addon">
+                                    <i class="fa fa-calendar-alt"></i>
+                                </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <svg class="chart"></svg>
+                        </div>
+
+                        <div class="tab-pane fade" id="settings" role="tabpanel" aria-labelledby="settings-tab">
+                            <div class="form-group">
+                                <div class="row">
+                                    <label class="col-4">sensorValue Max:</label>
+                                    <input type="text" class="form-control col-6" id="max">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="row">
+                                    <label class="col-4">sensorValue Min:</label>
+                                    <input type="text" class="form-control col-6" id="min">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-10"></div>
+                                <button type="button" class="btn btn-primary valueBtn">Apply</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary closeBtn" data-dismiss="modal">Close</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>

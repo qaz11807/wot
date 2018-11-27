@@ -1,0 +1,112 @@
+
+.force{
+	width:100%;
+	height:700px;
+}
+
+div.tooltip {
+	position: absolute;
+	text-align: center;
+	width: 300px;
+	height: 260px;
+	padding: 10px;
+	font-size: 14px;
+	font-family: monospace,"微軟正黑體";
+	background: #191D24;
+	border: 0px;
+	color:#f2f2f2;
+	border-radius: 8px;
+	pointer-events: none;
+	font-family:monospace;
+}
+
+.line {
+	fill: none;
+	stroke: steelblue;
+	stroke-width: 1px;
+}
+.liney {
+	fill: none;
+	stroke: #228b22;
+	stroke-width: 1px;
+}
+.linez {
+	fill: none;
+	stroke: #9b7cac;
+	stroke-width: 1px;
+}
+.tip {
+	position: absolute;
+	text-align: center;
+	font-family: monospace,"微軟正黑體";
+	width: 250px;
+	height: 80px;
+	padding: 2px;
+	font-size: 22px;
+	border: 0;
+	border-radius: 8px;
+	pointer-events: none;
+	color:#f2f2f2;
+	background:#191D24;
+}
+
+.netcore,.status,.gadId,.model,.addr{
+	color:#a4c1c1;
+}
+
+.type{
+	font-family: monospace,"微軟正黑體";
+	padding: 5px;
+	color:#ffbf00;
+	text-align: center;
+	font-size: 20px;
+}
+.value{
+	font-family: monospace,"微軟正黑體";
+	padding: 5px;
+	color:#ffbf00;
+	text-align: center;
+	font-size: 20px;
+}
+
+.unit{
+	font-family: monospace,"微軟正黑體";
+	padding: 5px;
+	color:#5cd65c;
+	text-align: center;
+	font-size: 20px;
+}
+
+
+.log{
+	margin-top: 20px;
+	margin-left: 0px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	width:100%;
+	height:680px;
+	background-color:#5585c0;
+	color:#FFFFFF;
+	font-family: monospace,"微軟正黑體";
+	font-size: 16px;
+}
+
+.forceback{
+	width:100%;
+	height:100%;
+	stroke:#000000;
+}
+
+.tab-pane{
+	margin:20px;
+}
+
+.modal-header{
+	color:#FFFFFF;
+	background-color:#262626;
+}
+
+.modal-footer{
+	color:#FFFFFF;
+	background-color:#262626;
+}
