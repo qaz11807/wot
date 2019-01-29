@@ -43,4 +43,5 @@
 ---
 
 # DEMO
-![Alt text](C:\\Users\User\Pictures\專題\final\main.jpg)
+
+![Alt text](/Users/User/Pictures/專題/final/main.jpg)
