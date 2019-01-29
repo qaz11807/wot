@@ -8,7 +8,7 @@
         
         var network = require("network")  
         
-### replace to
+#### replace to
 
         var network = {
                 get_active_interface: function (cb) {
@@ -25,8 +25,10 @@
 ---
 
 ### node_modules\mqtt-shepherd\lib\init.js
-### add  
-        options.port = shepherd.brokerSettings.port; under options.clientId = shepherdId; 
+#### add  
+        options.port = shepherd.brokerSettings.port; 
+#### under 
+        options.clientId = shepherdId; 
 
 ---
 
