@@ -7,7 +7,7 @@
     "ws": "./shim.js"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "busyman": "^0.2.0",
     "chalk": "^1.1.3",
     "css-loader": "^0.28.7",
